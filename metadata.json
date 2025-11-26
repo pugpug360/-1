@@ -1,0 +1,5 @@
+{
+  "name": "StrengthScience AI",
+  "description": "An intelligent knowledge base for strength and conditioning professionals. Automatically synthesizes the latest research, provides evidence-based answers, and organizes literature using Google Gemini with Search Grounding.",
+  "requestFramePermissions": []
+}
